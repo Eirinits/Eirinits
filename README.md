@@ -1,6 +1,8 @@
 ### Hi there, I am Eirini 👋
 
-:sparkles: I’m currently doing my PhD in Computational Biology in Trondheim, Norway :snowflake:
+:computer: :dna: PhD in Computational Biology
+
+:sparkles: Working as a Researcher at NTNU in Trondheim, Norway :snowflake:
 
 :telescope: My research focuses on logical modeling of inflammatory diseases and omics data integration.
 
